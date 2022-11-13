@@ -22,8 +22,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolaGiardino&repo=OSES_Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<a href="https://github.com/NicolaGiardino/OSES_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolaGiardino&repo=OSES_Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://github.com/NicolaGiardino/https://github.com/NicolaGiardino/RISCV_CPU_Labs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolaGiardino&repo=RISCV_CPU_Labs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/NicolaGiardino/ASE_ExtraPoints">
