@@ -7,27 +7,29 @@
 ### Main Projects I worked on
 
 <a href="https://github.com/NicolaGiardino/SoC_EKF_Linux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=FinancialPlanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolaGiardino&repo=SoC_EKF_Linux&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/NicolaGiardino/Sifive_HiFive_RevB_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=Computer-Simulator-8085&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolaGiardino&repo=Sifive_HiFive_RevB_Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/NicolaGiardino/AHRS">
   <img align="center" src="./assets/images/unknown_019.png" width=35%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolaGiardino&repo=AHRS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/NicolaGiardino/OSES_Project">
   <img align="center" src="./assets/images/unknown_025.png" width="35%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolaGiardino&repo=OSES_Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/NicolaGiardino/OSES_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=Control-Systems-Algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolaGiardino&repo=OSES_Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/NicolaGiardino/ASE_ExtraPoints">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XXmorpheusX&repo=PacketSnooper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolaGiardino&repo=ASE_ExtraPoints&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 ### Tech & Tools Preference
