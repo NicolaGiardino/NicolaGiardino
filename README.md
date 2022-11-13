@@ -58,14 +58,14 @@
 📍 **Politecnico di Torino** - Torino, Italia
 
 - 👨‍💻 **Co-Leader Electronics Dept.**\
-📆 Nov. 2022 - Now
-- 👨‍💻 **Firmware Group Coordinator**\
+📆 Nov. 2022 - Now\
+👨‍💻 **Firmware Group Coordinator**\
 📆 Dic. 2021 - Oct. 2022\
 📍 **Team DIANA** - Torino, Italia
 
 - 👨‍💻 **Electronics and Telemetry Division Manager**\
-📆 Sep. 2019 - Nov. 2019
-- 👨‍💻 **Computer Technology Division Member**\
+📆 Sep. 2019 - Nov. 2019\
+👨‍💻 **Computer Technology Division Member**\
 📆 Oct. 2018 - Aug. 2019\
 📍 **Team DIANA** - Torino, Italia
 
