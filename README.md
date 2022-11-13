@@ -43,13 +43,13 @@
 
 ## Education
 
-- 📖 **Computer Engineering**\
-📆 2017 - 2021\
-📍 **Università Federico II di Napoli** - Napoli, Italia
-
 - 📖 **Embedded Systems Engineering**\
 📆 2021 - now\
 📍 **Politecnico di Torino** - Torino, Italia
+
+- 📖 **Computer Engineering**\
+📆 2017 - 2021\
+📍 **Università Federico II di Napoli** - Napoli, Italia
 
 ## Experience
 
@@ -58,13 +58,13 @@
 📍 **Politecnico di Torino** - Torino, Italia
 
 - 👨‍💻 **Co-Leader Electronics Dept.**\
-📆 Nov. 2022 - Now\
+📆 Nov. 2022 - Now
 - 👨‍💻 **Firmware Group Coordinator**\
 📆 Dic. 2021 - Oct. 2022\
 📍 **Team DIANA** - Torino, Italia
 
 - 👨‍💻 **Electronics and Telemetry Division Manager**\
-📆 Sep. 2019 - Nov. 2019\
+📆 Sep. 2019 - Nov. 2019
 - 👨‍💻 **Computer Technology Division Member**\
 📆 Oct. 2018 - Aug. 2019\
 📍 **Team DIANA** - Torino, Italia
