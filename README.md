@@ -54,7 +54,7 @@
 ## Experience
 
 - 👨‍💻 **Research Scolarship**\
-📆 Nov.2022 - now\
+📆 Nov.2022 - June 2023\
 📍 **Politecnico di Torino** - Torino, Italia
 
 - 👨‍💻 **Co-Leader Electronics Dept.**\
@@ -62,6 +62,10 @@
 👨‍💻 **Firmware Group Coordinator**\
 📆 Dic. 2021 - Oct. 2022\
 📍 **Team DIANA** - Torino, Italia
+
+- 👨‍💻 **Software Manager**\
+📆 Jan.2023 - June 2023\
+📍 **SPEI SATELLES** - Torino, Italia
 
 - 👨‍💻 **Electronics and Telemetry Division Manager**\
 📆 Sep. 2019 - Nov. 2019\
