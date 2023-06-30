@@ -71,7 +71,7 @@
 📆 Sep. 2019 - Nov. 2019\
 👨‍💻 **Computer Technology Division Member**\
 📆 Oct. 2018 - Aug. 2019\
-📍 **Team DIANA** - Torino, Italia
+📍 **UninaCorse E-Team** - Napoli, Italia
 
 -->
 
