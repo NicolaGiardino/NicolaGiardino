@@ -55,6 +55,8 @@
 
 - 👨‍💻 **Research Scolarship**\
 📆 Nov.2022 - June 2023\
+- 👨‍💻 **Research Scolarship**\
+📆 Mar.2024 - Now\
 📍 **Politecnico di Torino** - Torino, Italia
 
 - 👨‍💻 **Co-Leader Electronics Dept.**\
