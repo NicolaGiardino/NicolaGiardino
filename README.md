@@ -1,4 +1,4 @@
-#### Hi there 👋, I'm Nicola, a MoS student at Politecnico di Torino in Embedded Systems - Computer Engineering.
+#### Hi there 👋, I'm Nicola, formerly a MoS student at Politecnico di Torino in Embedded Systems - Computer Engineering, now a PhD student in Aerospace Engineering in the STARLab Research Team.
 
 ### GitHub Stats
 
@@ -43,8 +43,12 @@
 
 ## Education
 
+- 📖 **PhD in Aerospace Engineering**\
+📆 2024 - 2027\
+📍 **Politecnico di Torino** - Torino, Italia
+
 - 📖 **Embedded Systems Engineering**\
-📆 2021 - now\
+📆 2021 - 2024\
 📍 **Politecnico di Torino** - Torino, Italia
 
 - 📖 **Computer Engineering**\
@@ -56,7 +60,7 @@
 - 👨‍💻 **Research Scolarship**\
 📆 Nov.2022 - June 2023
 - 👨‍💻 **Research Scolarship**\
-📆 Mar.2024 - Now\
+📆 Mar.2024 - Oct.2024\
 📍 **Politecnico di Torino** - Torino, Italia
 
 - 👨‍💻 **Co-Leader Electronics Dept.**\
